@@ -1,7 +1,7 @@
 # ddRADworkflows
 Various workflows used for processing and analyzing ddRADSeq data.
 
-## ipyrad_workflow_shared.html
+## ipyrad_workflows
 Contains workflows to process ddRADSeq data using the ipyrad toolkit. This was written for specific projects and datasets in the lab but could be useful for others. Includes all 7 assembly steps from demultiplexing and filtering to final assemblies, clustering threshold optimization, and branching to create assemblies for exploring different parameters of a dataset.
 
 Relevant references:
